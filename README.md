@@ -14,3 +14,10 @@ For more info [Trending YouTube Video Statistics](https://www.kaggle.com/datasna
 
 > With the limit of the dataset only being from November of 2017 and July of 2018, underneath are general data from the EDA and for more information you can scroll down further.
 
+![General](https://github.com/jjaimwork/Kaggle-YouTube-EDA/blob/master/img/Gen%203.png)
+
+![General](https://github.com/jjaimwork/Kaggle-YouTube-EDA/blob/master/img/General.png)
+
+<table><tr><td><img src='https://github.com/jjaimwork/Kaggle-YouTube-EDA/blob/master/img/Music.png'></td><td><img src='https://github.com/jjaimwork/Kaggle-YouTube-EDA/blob/master/img/Entertainment.png'></td></tr></table>
+
+<table><tr><td><img src='https://github.com/jjaimwork/Kaggle-YouTube-EDA/blob/master/img/General.png'></td><td><img src='https://github.com/jjaimwork/Kaggle-YouTube-EDA/blob/master/img/Music.png'></td></tr></table>
