@@ -20,4 +20,4 @@ For more info [Trending YouTube Video Statistics](https://www.kaggle.com/datasna
 
 <table><tr><td><img src='https://github.com/jjaimwork/Kaggle-YouTube-EDA/blob/master/img/Music.png'></td><td><img src='https://github.com/jjaimwork/Kaggle-YouTube-EDA/blob/master/img/Entertainment.png'></td></tr></table>
 
-<table><tr><td><img src='https://github.com/jjaimwork/Kaggle-YouTube-EDA/blob/master/img/General.png'></td><td><img src='https://github.com/jjaimwork/Kaggle-YouTube-EDA/blob/master/img/Music.png'></td></tr></table>
+<table><tr><td><img src='https://github.com/jjaimwork/Kaggle-YouTube-EDA/blob/master/img/Film%20%26%20Animation.png'></td><td><img src='https://github.com/jjaimwork/Kaggle-YouTube-EDA/blob/master/img/People%20%26%20Blogs.png'></td></tr></table>
